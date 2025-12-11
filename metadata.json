@@ -1,0 +1,8 @@
+{
+  "name": "OfferYou - Intelligent Interview Assistant",
+  "description": "A comprehensive AI-powered career assistant. Features resume optimization, tailored mock interviews, question banks, and a gamified community for sharing experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
